@@ -1,0 +1,1 @@
+{"assignment": 7.9, "mid_term": 5.9, "final_exam": 5.8, "final_grade": 6.2, "GPA": "C"}
